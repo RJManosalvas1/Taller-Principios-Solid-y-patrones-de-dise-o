@@ -1,3 +1,5 @@
+Link video: https://youtu.be/0cGJvhmeELA
+
 Pepito es un Ingeniero de Software Junior en Codificando Con Patrones Cía. Ltda. Se le ha encargado la tarea de completar los requerimientos funcionales del aplicativo de automóviles al que la empresa da soporte. 
 
 Los requisitos son los siguientes: 
